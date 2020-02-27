@@ -1,4 +1,4 @@
-module github.com/majordomusio/log15/v2.15.0
+module github.com/majordomusio/log15/v2
 
 go 1.13
 
